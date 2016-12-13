@@ -1,0 +1,15 @@
+#Quartus 2 sys files
+/Guessing Game Quartus_copy/db
+/Guessing Game Quartus_copy/incremental_db
+/Guessing Game Quartus_copy/output_files
+/Guessing Game Quartus_copy/greybox_tmp
+*.qsf
+*.qws
+*.qpf
+#ModelSim files
+/LFSR ModelSim/work
+/LFSR ModelSim/transcript
+*.bak
+*.mti
+*.mpf
+*.wlf

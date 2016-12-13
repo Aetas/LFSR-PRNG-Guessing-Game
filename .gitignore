@@ -9,6 +9,8 @@
 *.qdf
 /Guessing Game Quartus_copy/*.tmp
 
+/Guessing Game Quartus_copy/output_files/!LFSR-PRNG_Guessing.sof
+
 #ModelSim files
 /LFSR ModelSim/work
 /LFSR ModelSim/transcript

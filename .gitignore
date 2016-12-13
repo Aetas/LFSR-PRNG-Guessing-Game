@@ -6,6 +6,9 @@
 *.qsf
 *.qws
 *.qpf
+*.qdf
+/Guessing Game Quartus_copy/*.tmp
+
 #ModelSim files
 /LFSR ModelSim/work
 /LFSR ModelSim/transcript
